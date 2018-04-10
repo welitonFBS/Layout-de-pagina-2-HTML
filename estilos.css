@@ -6,7 +6,7 @@ body {
 	font-family: Verdana, Helvetica, Arial, sans-serif;
 	font-size: small;
 	color: white;
-	background-image: url(imagens/right_side.gif), url(imagens/left_side.gif);
+	background-image: url(right_side.gif), url(left_side.gif);
 	background-repeat: repeat-y, repeat-y;
 	background-position: right, left;
 	margin: 0px 110px 0px 110px;
